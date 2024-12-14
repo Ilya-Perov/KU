@@ -1,0 +1,136 @@
+ABSOLUTE_17:
+  A: 13
+  B: 110
+  C: 120
+ABSOLUTE_18:
+  A: 13
+  B: 111
+  C: 121
+ABSOLUTE_19:
+  A: 13
+  B: 112
+  C: 122
+ABSOLUTE_20:
+  A: 13
+  B: 113
+  C: 123
+ABSOLUTE_21:
+  A: 13
+  B: 114
+  C: 124
+ABSOLUTE_22:
+  A: 13
+  B: 115
+  C: 125
+ABSOLUTE_23:
+  A: 13
+  B: 116
+  C: 126
+ABSOLUTE_24:
+  A: 13
+  B: 117
+  C: 127
+LOAD_CONSTANT_1:
+  A: 1
+  B: 100
+  C: 5
+LOAD_CONSTANT_2:
+  A: 1
+  B: 101
+  C: 6
+LOAD_CONSTANT_3:
+  A: 1
+  B: 102
+  C: 7
+LOAD_CONSTANT_4:
+  A: 1
+  B: 103
+  C: 8
+LOAD_CONSTANT_5:
+  A: 1
+  B: 104
+  C: 9
+LOAD_CONSTANT_6:
+  A: 1
+  B: 105
+  C: 10
+LOAD_CONSTANT_7:
+  A: 1
+  B: 106
+  C: 11
+LOAD_CONSTANT_8:
+  A: 1
+  B: 107
+  C: 12
+READ_MEMORY_10:
+  A: 12
+  B: 101
+  C: 111
+READ_MEMORY_11:
+  A: 12
+  B: 102
+  C: 112
+READ_MEMORY_12:
+  A: 12
+  B: 103
+  C: 113
+READ_MEMORY_13:
+  A: 12
+  B: 104
+  C: 114
+READ_MEMORY_14:
+  A: 12
+  B: 105
+  C: 115
+READ_MEMORY_15:
+  A: 12
+  B: 106
+  C: 116
+READ_MEMORY_16:
+  A: 12
+  B: 107
+  C: 117
+READ_MEMORY_9:
+  A: 12
+  B: 100
+  C: 110
+WRITE_MEMORY_25:
+  A: 15
+  B: 110
+  C: 120
+  D: 130
+WRITE_MEMORY_26:
+  A: 15
+  B: 111
+  C: 121
+  D: 131
+WRITE_MEMORY_27:
+  A: 15
+  B: 112
+  C: 122
+  D: 132
+WRITE_MEMORY_28:
+  A: 15
+  B: 113
+  C: 123
+  D: 133
+WRITE_MEMORY_29:
+  A: 15
+  B: 114
+  C: 124
+  D: 134
+WRITE_MEMORY_30:
+  A: 15
+  B: 115
+  C: 125
+  D: 135
+WRITE_MEMORY_31:
+  A: 15
+  B: 116
+  C: 126
+  D: 136
+WRITE_MEMORY_32:
+  A: 15
+  B: 117
+  C: 127
+  D: 137
